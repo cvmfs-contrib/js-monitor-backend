@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+pre.js
+tests/build/
+cache/
+.vscode
+metainfofile.json
+.env
